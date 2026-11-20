@@ -1,4 +1,4 @@
-# DSP_proyecto
+# Radiacion/DSP_proyecto
 Repositorio para proyectp
 Codigo completo de la cantonera electronica :
 #include <SPI.h>
